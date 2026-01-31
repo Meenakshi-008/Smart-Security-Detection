@@ -1,8 +1,7 @@
 **Smart Security Detection System**
 
-This project is a smart person detection system using deep learning.It detects and counts people in an uploaded image.
-The system draws bounding boxes around detected persons with confidence scores.
-A simple web interface allows users to view results easily.
+This project is a smart person detection system using deep learning.It detects and counts people in an uploaded image. The system draws bounding boxes around detected persons with confidence scores. A simple web interface allows users to view results easily.
+
 
 **Tools & Tecnologies**
 
@@ -46,14 +45,12 @@ A simple web interface allows users to view results easily.
 
 3.This shows how sure the model is, but it is not actual accuracy.
 
-
-**User Interface**
+User Interface
 
 A simple Gradio web app allows users to upload images and instantly see detection results.
 
 
 **Applications**
-
 
 1.Security and surveillance
 
