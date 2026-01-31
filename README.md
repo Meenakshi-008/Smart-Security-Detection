@@ -16,7 +16,7 @@ Pre-trained Faster R-CNN (PyTorch) detects people in uploaded images, draws conf
 - OpenCV  
 - Gradio
   
-## Installation and Setup
+### Installation and Setup
 
 Follow these steps to set up and run **SmartSecurityGuard** locally:
 
